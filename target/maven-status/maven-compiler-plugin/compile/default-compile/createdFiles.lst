@@ -1,0 +1,4 @@
+com\gp\usersecurity\entities\projections\UserProjection.class
+com\gp\usersecurity\entities\Usermaster.class
+com\gp\usersecurity\repository\UserRepository.class
+com\gp\usersecurity\UserSecurityBootStrap.class

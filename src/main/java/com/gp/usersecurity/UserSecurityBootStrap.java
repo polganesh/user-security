@@ -5,12 +5,14 @@ package com.gp.usersecurity;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 /**
  * @author ganeshp
  *
  */
 @SpringBootApplication
+@EnableDiscoveryClient
 public class UserSecurityBootStrap {
 
 	/**
